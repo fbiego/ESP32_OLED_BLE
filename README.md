@@ -27,4 +27,5 @@ The companion app is available [`here`](https://github.com/fbiego/DT78-App-Andro
 
 Extract the `OLED_I2C` library to your Arduino libraries folder
 
+This library has been modified to include the `flipMode()` function
 

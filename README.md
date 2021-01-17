@@ -12,9 +12,14 @@ Receive Android notifications on ESP32 with an OLED screen via Bluetooth LE
 + Rotate and/or flip OLED display
 + Screen & Notification timeout settings
 
+![1](image1.jpg?raw=true "1")
+
 ## Android app
 
 The companion app is available [`here`](https://github.com/fbiego/DT78-App-Android)
+
+
+![2](image2.jpg?raw=true "2")
 
 
 ## Library

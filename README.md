@@ -2,8 +2,7 @@
 Receive Android notifications on ESP32 with an OLED screen via Bluetooth LE
 
 ## Videos
-
-+ [`ESP OLED notifications`](https://youtu.be/205QgAjmryA)
++ [`ESP32 OLED notifications`](https://youtu.be/205QgAjmryA)
 + [`How to connect`](https://youtu.be/4o1O2qxbPlw)
 
 ## Features

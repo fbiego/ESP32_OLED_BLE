@@ -23,9 +23,11 @@ The companion app is available [`here`](https://github.com/fbiego/DT78-App-Andro
 ![2](image2.jpg?raw=true "2")
 
 
-## Library
+## Libraries
 
-Extract the `OLED_I2C` library to your Arduino libraries folder
+Extract the `OLED_I2C` & `ESP32Time` library to your Arduino libraries folder
 
 This library has been modified to include the `flipMode()` function
+
+Download `ESP32Time `library  [`here`](https://github.com/fbiego/ESP32Time)
 

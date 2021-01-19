@@ -29,5 +29,5 @@ Extract the `OLED_I2C` & `ESP32Time` library to your Arduino libraries folder
 
 This library has been modified to include the `flipMode()` function
 
-Download `ESP32Time `library  [`here`](https://github.com/fbiego/ESP32Time)
+Download `ESP32Time` library  [`here`](https://github.com/fbiego/ESP32Time)
 

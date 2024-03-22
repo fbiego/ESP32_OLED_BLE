@@ -17,17 +17,24 @@ Also functions as a clock, the time is set automatically via BLE when connected 
 
 ## Android app
 
-The companion app is available [`here`](https://github.com/fbiego/DT78-App-Android)
+Chronos
 
+<a href='https://chronos.ke/app?id=esp32'><img alt='Download Chronos' height="100px" src='https://chronos.ke/img/chronos.png'/></a>
 
-![2](image2.jpg?raw=true "2")
+### Setup
+- Go to the watch tab and click on the Watches button
+- Pair new watch and select the ESP32
+- To Flip the display toggle Units (Metric, Imperial)
+- To Rotate the display toggle Temperature (Celsius, Farhenheit)
 
 
 ## Libraries
 
-Extract the `OLED_I2C` & `ESP32Time` library to your Arduino libraries folder
+Download [`ChronosESP32`](https://www.arduinolibraries.info/libraries/chronos-esp32) library from Arduino Library Manager or [`ChronosESP32`](https://github.com/fbiego/chronos-esp32)
+
+Extract the `OLED_I2C` & `ChronosESP32` library to your Arduino libraries folder
 
 The `OLED_I2C` library has been modified to include the `flipMode()` function
 
-Download `ESP32Time` library from Arduino Library Manager or [`here`](https://www.arduinolibraries.info/libraries/esp32-time)
+
 

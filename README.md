@@ -4,6 +4,7 @@ Receive Android notifications on ESP32 with an OLED screen via Bluetooth LE.
 Also functions as a clock, the time is set automatically via BLE when connected to the app.
 
 ## Videos
++ [`Chronos ESP32 OLED notifications`](https://youtu.be/fSZPsQY2NbI)
 + [`ESP32 OLED notifications`](https://youtu.be/205QgAjmryA)
 + [`How to connect`](https://youtu.be/4o1O2qxbPlw)
 
